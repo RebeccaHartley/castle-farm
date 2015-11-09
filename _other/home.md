@@ -44,10 +44,9 @@ result of him damaging his Achilles tendon just before the lambing
 season, finding that she quite enjoyed working on the farm.
 
 ![](images/media/image3.jpeg)
+_Richard and Rebecca_
 
-Richard and Rebecca
-
-<http://www.soulimages.co.uk/>
+_http://www.soulimages.co.uk/_
 
 ## Current Crop
 
@@ -58,8 +57,7 @@ wild flowers. As part of the harvest, hay and straw are also produced
 and enjoyed by many a local animal.
 
 ![](images/media/image4.jpeg)
-
-<http://www.soulimages.co.uk/>
+_http://www.soulimages.co.uk/_
 
 ## The Herd
 
