@@ -1,0 +1,47 @@
+<!-- <div class="cte WdB">
+<header id="site-header" style="background-image:url({{ page.background }})">
+  
+  <div class="logo">
+    {% include logo.svg %}
+  </div>
+
+  <div class="cte WdB" style="height: inherit;">
+
+    <div class="msg">- SINCE 1950 -</div>
+
+    <div class="dcr-bar"></div>
+
+    <nav id="header-nav">
+
+      <div class="o-tbl">
+        <div class="tbl">
+          <div class="cll m_hideB" style="width:131px;background-position:left bottom;"></div>
+          {% assign pages = site.sitepages %}
+          {% for page in pages | sort: menuorder %}
+            {% if page.title %}
+            <div class="cll">
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            </div>
+            {% endif %}
+          {% endfor %}
+          <div class="cll m_hideB" style="width:131px;background-position:right bottom;"></div>
+        </div>
+      </div>
+    </nav>
+  </div>
+  
+  <div class="dcr-main {{page.colorscheme}}">
+    
+    <div class="cte WdB">
+
+    </div>
+
+  </div>
+  
+</header>
+</div> -->
+
+<header id="header" class="cte WdB">
+  <img src="images/tup_logo_02.svg" alt="">
+  <strong>Est. 1956</strong>
+</header>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+  
+  <script src="/bower_components/jquery/dist/jquery.js"></script>
+  <script src="/bower_components/angular/angular.js"></script>
+  <script src="/bower_components/showdown/src/showdown.js"></script>
+  <script src="/bower_components/angular-markdown-directive/markdown.js"></script>
+  <script src="/bower_components/angular-animate/angular-animate.js"></script>
+  <script src="/bower_components/angular-cookies/angular-cookies.js"></script>
+  <script src="/bower_components/angular-resource/angular-resource.js"></script>
+  <script src="/bower_components/angular-route/angular-route.js"></script>
+  <script src="/bower_components/angular-sanitize/angular-sanitize.js"></script>
+  <script src="/bower_components/angular-touch/angular-touch.js"></script>
+  <script src="/bower_components/ui-utils/ui-utils.js"></script>
+  <script src="/bower_components/ui-router/release/angular-ui-router.js"></script>
+
+  <script type="text/javascript">
+
+    'use strict';
+    /**
+     * @ngdoc overview
+     * @name mvpApp
+     * @description
+     * # mvpApp
+     *
+     * Main module of the application.
+     */
+    angular
+      .module('castleFarm', [
+        'ngAnimate',
+        'ngCookies',
+        'ngResource',
+        'ngSanitize',
+        'ngTouch',
+        'ui.utils',
+        'ui.router',
+        'btford.markdown'
+      ])
+      .constant('regExp',{
+        'email':'',
+        'username':''
+      })
+      .filter('checkmark', function() {
+        return function(input) {
+          input = input.replace(/\//g,'-');
+          return input;
+        };
+      })
+      .config(function ($locationProvider,$stateProvider,$urlRouterProvider,$sceDelegateProvider,$interpolateProvider) {
+
+        $interpolateProvider.startSymbol('{[{').endSymbol('}]}');
+
+        $sceDelegateProvider.resourceUrlWhitelist([
+          // Allow same origin resource loads.
+          'self',
+          // Allow loading from our assets domain.  Notice the difference between * and **.
+          'http://localhost:8000/**'
+        ]);
+
+        alert('yo');
+
+        // jQuery easing extend
+        $.easing.easeOutQuad = function (x, t, b, c, d) {
+          return -c *(t/=d)*(t-2) + b;
+        };
+
+        $stateProvider
+            .state('about', {
+              url: "/about/",
+              template: '<div ng-include=\'data\'>HELLO</div>',
+              // template: '<btf-markdown>#Markdown directive*It works!*</btf-markdown>',
+              controller: function($scope,$state) {
+
+
+                $scope.things = ["A", "Set", "Of", "Things"];
+                $scope.data = '/designs/about.md';
+
+                console.log($state);
+              }
+            });
+
+            // $urlRouterProvider.otherwise('/-signup/');
+
+            $locationProvider.html5Mode(true);
+
+      });
+
+  </script>
+
+
+</html>
