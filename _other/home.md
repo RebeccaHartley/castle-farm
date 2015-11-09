@@ -46,8 +46,6 @@ season, finding that she quite enjoyed working on the farm.
 ![](/images/media/image3.jpeg)
 _Richard and Rebecca_
 
-_http://www.soul/images.co.uk/_
-
 ## Current Crop
 
 The land has grown various arable crops over the years and is currently
