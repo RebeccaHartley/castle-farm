@@ -25,7 +25,7 @@ relocation.
 After an extensive search, they found the perfect location 35 minutes up
 the A1, and the Brown family moved to Castle Farm on 6th April 1957.
 
-![The family enjoying Christmas on the farm](/images/media/image2.jpeg)
+![The family enjoying Christmas on the farm](http://rebeccahartley.github.io/castle-farm/images/media/image2.jpeg)
 
 
 ## Grass Roots
