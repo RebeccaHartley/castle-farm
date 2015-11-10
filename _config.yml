@@ -21,3 +21,5 @@ collections:
  other:
   output: true
 
+prose:
+  rooturl: '_other'

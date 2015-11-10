@@ -75,11 +75,13 @@ Twitter - @CastleFarmBarn
 Facebook - CastleFarmNorthYorkshire
 Instagram - castle_farm (I think)
 01423 862984 (I'm in two minds whether to provide a mobile number)
+{:.separate-lines}
 
 Castle Farm
 Hay-a-Park
 Knaresborough
 North Yorkshire
 HG5 0RX
+{:.separate-lines}
 
 Castle Farm is situated just outside the beautiful market town of Knaresborough, with good access to the A59 and A1(M). Not all sat navs find us, so please use the map.
