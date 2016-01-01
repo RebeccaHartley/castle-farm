@@ -8,7 +8,7 @@ menuorder: 2
 
 # Down On The Farm
 
-![](http://rebeccahartley.github.io/castle-farm/images/media/image1.jpeg)
+![](/images/media/image1.jpeg)
 _http://www.lissaalexandraphotography.com/_
 
 Castle Farm is a family run farm situated in the beautiful North
@@ -25,7 +25,7 @@ relocation.
 After an extensive search, they found the perfect location 35 minutes up
 the A1, and the Brown family moved to Castle Farm on 6th April 1957.
 
-![The family enjoying Christmas on the farm](http://rebeccahartley.github.io/castle-farm/images/media/image2.jpeg)
+![The family enjoying Christmas on the farm](/images/media/image2.jpeg)
 
 
 ## Grass Roots
@@ -43,7 +43,7 @@ daughter has assisted on the farm. Rebecca joined Richard in 2013 as the
 result of him damaging his Achilles tendon just before the lambing
 season, finding that she quite enjoyed working on the farm.
 
-![](http://rebeccahartley.github.io/castle-farm/images/media/image3.jpeg)
+![](/images/media/image3.jpeg)
 _Richard and Rebecca_
 
 ## Current Crop
@@ -54,7 +54,7 @@ Golden Promise a spring barley crop, winter wheat, linseed for oil and
 wild flowers. As part of the harvest, hay and straw are also produced
 and enjoyed by many a local animal.
 
-![](http://rebeccahartley.github.io/castle-farm/images/media/image4.jpeg)
+![](/images/media/image4.jpeg)
 _http://www.soul/images.co.uk/_
 
 ## The Herd
@@ -63,7 +63,7 @@ The farm is also home to a herd of sheep, with lambing taking place in
 the spring. The two lucky boys, Thor a Texel tup and Harry a Charollais
 tup, have their pick of around 140 Suffolk cross Border Leicester ewes!
 
-![](http://rebeccahartley.github.io/castle-farm/images/media/image5.jpeg)
+![](/images/media/image5.jpeg)
 
 Also to be found on the farm is Floss the Border Collie sheepdog, Heidi
 and Delilah the Pygmy goats and a multitude of cats.
