@@ -52,7 +52,14 @@ body{
 	padding: 0 3rem;
 }
 
-p{
+ul{
+	margin-bottom: 1rem;
+}
+li{
+	margin-bottom: 0.5rem;
+}
+
+p,li{
 	color:$DK0;
 	font-family: courier;
 	line-height: 2rem;
