@@ -7,7 +7,7 @@ menuorder: 4
 
 # Big Barn Bash
 
-![Alt text](/images/email/barn/venue_with_bunting_sepia.JPG "Optional title")
+![Alt text]({{/images/email/barn/venue_with_bunting_sepia.JPG  | prepend: site.baseurl}} "Optional title")
 
 Castle Farm is the perfect setting for your wedding, event or special occasion.
 
