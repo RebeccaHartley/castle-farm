@@ -25,5 +25,4 @@ HG5 0RX
 Castle Farm is situated just outside the beautiful market town of Knaresborough, with good access to the A59 and A1(M). Not all sat navs find us, so please use the map.
 
 <div class="google-maps">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13048.849591576403!2d-1.4325122979765899!3d54.01423859022379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48794db99ce495c5%3A0x33e2f32c6ab67880!2sKnaresborough%2C+North+Yorkshire+HG5+0RX!5e0!3m2!1sen!2suk!4v1451336208739" width="780" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9503.5503422206!2d-1.4199692165395852!3d54.017178847407074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48794dbc2727a54f%3A0xfaf20b34e060c4b!2sHay-A-Park+Ln%2C+Knaresborough%2C+North+Yorkshire+HG5!5e0!3m2!1sen!2suk!4v1453757509391" width="780" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
