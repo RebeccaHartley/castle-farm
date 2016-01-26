@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-menuorder: 3
+menuorder: 4
 ---
 
 ## Contact

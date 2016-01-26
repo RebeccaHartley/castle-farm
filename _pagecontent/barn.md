@@ -2,7 +2,7 @@
 layout: page
 title: The Barn
 permalink: /barn/
-menuorder: 4
+menuorder: 3
 ---
 
 # Big Barn Bash

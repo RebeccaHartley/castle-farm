@@ -19,3 +19,4 @@
 [Tue Jan 05 21:17:29.957662 2016] [core:error] [pid 63855] (13)Permission denied: [client 127.0.0.1:51911] AH00132: file permissions deny server access: /Users/robertstarbuck/Sites/castle-farm/_site/images/email/barn/venue_with_bunting_sepia.JPG, referer: http://local.castle-farm.net/images/email/barn/
 [Mon Jan 25 20:56:44.708049 2016] [authz_core:error] [pid 864] [client 127.0.0.1:49552] AH01630: client denied by server configuration: /Users/robertstarbuck/Sites/castle-farm/_site
 [Mon Jan 25 20:59:52.159142 2016] [authz_core:error] [pid 859] [client 127.0.0.1:49606] AH01630: client denied by server configuration: /Users/robertstarbuck/Sites/castle-farm/_site
+[Tue Jan 26 19:27:40.577637 2016] [authz_core:error] [pid 304] [client 127.0.0.1:52259] AH01630: client denied by server configuration: /Users/robertstarbuck/Sites/castle-farm/_site, referer: http://local.castle-farm.net/
