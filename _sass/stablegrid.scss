@@ -71,6 +71,10 @@ p{
   border-spacing: 0;
   box-sizing:border-box;
   margin-bottom: 3rem;
+
+  &.Flip{
+    direction: rtl;
+  }
   &.Flr{
     float: right;
     width: auto;
@@ -122,6 +126,7 @@ p{
 
 // Cells
 .cll{
+    text-align: left;
     position: relative;
     display:table-cell;
     vertical-align: top;

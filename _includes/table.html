@@ -1,0 +1,16 @@
+<div class="o-tbl SpcC">
+	<div class="tbl {{include.table-classes}}">
+		{% if include.image %}
+
+		<div class="cll">
+			<img src="{{ include.image | prepend: site.baseurl }}" alt="">
+		</div>
+
+		{% endif %}
+		<div class="cll {{include.content-classes}}">
+
+		{{ include.content-text | markdownify }}
+
+		</div>
+	</div>
+</div>
