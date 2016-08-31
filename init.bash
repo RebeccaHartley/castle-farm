@@ -1,2 +1,2 @@
 #!/bin/bash
-jekyll serve --watch --incremental --baseurl ''
+jekyll serve --watch --incremental --baseurl '' --destination '../castle-farm-build'

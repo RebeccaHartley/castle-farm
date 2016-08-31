@@ -4,7 +4,9 @@
     <div class="o-tbl">
       <div class="tbl">
         <div class="cll m_hideB" style="width:131px;background-position:left bottom;"></div>
-        {% assign pages = site.pagecontent | sort: 'menuorder' %}
+
+
+        {% assign pages = site.pages | sort: 'menuorder' %}
         {% for page in pages %}
           {% if page.title and page.menuorder %}
           <div class="cll">
