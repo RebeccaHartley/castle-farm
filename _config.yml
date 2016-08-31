@@ -26,3 +26,4 @@ prose:
   rooturl: 'content'
   siteurl: "http://rebeccahartley.github.io/castle-farm"
   media: "images"
+  ignore: [INFO.md]
