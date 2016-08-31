@@ -7,7 +7,7 @@ menuorder: 3
 
 # Big Barn Bash
 
-![](/images/barn/interior-sepia.jpeg)
+![]({{ site.baseurl }}/images/barn/interior-sepia.jpeg)
 {: .right}
 
 Castle Farm is the perfect setting for your wedding, event or special
@@ -21,7 +21,7 @@ for years to come.
 
 ## Where it all began...
 
-![](/images/barn/horse-shoe.jpeg)
+![]({{ site.baseurl }}/images/barn/horse-shoe.jpeg)
 {: .left}
 
 Castle Farm hosted two Brown daughter Weddings
@@ -38,13 +38,13 @@ The space comprises of the beautiful stone barn, perfect for a sit down
 banquet or buffet. The space also allows for evening entertainment and
 suitable room to party.
 
-![](/images/barn/interior.jpeg)
+![]({{ site.baseurl }}/images/barn/interior.jpeg)
 
 The brick Roundhouse is the ideal space for reception drinks and is the
 best place to home a bar. Later on the Roundhouse can also be used as a
 break out or quiet area.
 
-![](/images/barn/baar.jpeg)
+![]({{ site.baseurl }}/images/barn/baar.jpeg)
 {: .right .width25}
 
 Luxury toilet facilities (with disabled access) are located onsite with
@@ -58,7 +58,7 @@ The farm also has plenty of parking and outdoor space with a seasonal
 changing backdrop ideal for photographs.
 
 
-![](/images/barn/interior-bulbs.jpeg)
+![]({{ site.baseurl }}/images/barn/interior-bulbs.jpeg)
 {: .left .width25}
 
 Castle Farm provides a space that is a rustic blank canvas. It offers a
@@ -69,7 +69,7 @@ Castle Farm understands that everyone is individual and event
 requirements are very personal, and will work with you to create the
 perfect day.
 
-![](/images/barn/combine-couple.jpeg)
+![]({{ site.baseurl }}/images/barn/combine-couple.jpeg)
 {: .right .width25}
 
 Please visit the contact page to request further information and to
