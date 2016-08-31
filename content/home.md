@@ -5,4 +5,4 @@ permalink: /
 menuorder: 1
 ---
 
-Rotation of photos
+Photographs

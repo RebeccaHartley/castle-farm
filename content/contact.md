@@ -5,7 +5,7 @@ permalink: /contact/
 menuorder: 4
 ---
 
-## Contact
+# Contact
 
 - <i class="fa fa-envelope"></i> [castlefarmbarn@outlook.com](mailto:castlefarmbarn@outlook.com)
 

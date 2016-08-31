@@ -1,3 +1,0 @@
-## The Facilities
-
-The space comprises of the beautiful stone barn, perfect for a sit down banquet or buffet. The space also allows for evening entertainment and suitable room to party.The brick Roundhouse is the ideal space for reception drinks and is the best place to home a bar. Later on the Roundhouse can also be used as a break out or quiet area.Luxury toilet facilities (with disabled access) are located onsite with an original farmhouse stone sink. Meaning no further loo hiring is required.

@@ -93,8 +93,9 @@ h1,h2{
 	margin-bottom:3rem;
 	padding-bottom:1rem;
 	text-transform: uppercase;
+	clear:both;
 }
-h1{
+h2{
 	// border-bottom:5px dotted $DK0;
 	border-bottom: 0;
 	&:after{
@@ -109,18 +110,15 @@ h1{
 	}
 }
 
+p + h1, p + h2{
+	padding-top: 2rem;
+}
+
 .cte{
 	position: relative;
 }
 .reference{
 	text-align: right;
-}
-img + em{
-	color: #AAA;
-	text-align: right;
-	display: block;
-	margin-top: 1rem;
-	font-style: italic;
 }
 
 .separate-lines{
@@ -140,4 +138,25 @@ img + em{
     left: 0;
     width: 100% !important;
     height: 100% !important;
+}
+
+// Images
+
+p.left{
+	float:left;
+	width:25%;
+	padding:0 3rem 0 0;
+}
+p.right{
+	float:right;
+	width:25%;
+	padding:0 0 0 3rem;
+}
+
+img + em{
+	color: #AAA;
+	text-align: right;
+	display: block;
+	margin-top: 1rem;
+	font-style: italic;
 }
