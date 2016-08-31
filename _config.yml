@@ -23,6 +23,6 @@ colours:
 
 
 prose:
-  rooturl: 'content'
+  rooturl: '/content'
   siteurl: "http://rebeccahartley.github.io/castle-farm"
   media: "images"
