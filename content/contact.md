@@ -23,8 +23,6 @@ North Yorkshire
 HG5 0RX
 {:.separate-lines}
 
-As we are often in the field, please do contact us before visiting.
-
 Castle Farm is situated just outside the beautiful market town of Knaresborough, with good access to the A59 and A1(M). Not all sat navs find us, so please use the map.
 
 <div class="google-maps">
