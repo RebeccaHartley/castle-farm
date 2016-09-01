@@ -3,6 +3,7 @@ layout: page
 title: The Barn
 permalink: /barn/
 menuorder: 3
+published: true
 ---
 
 # Big Barn Bash
@@ -11,13 +12,9 @@ menuorder: 3
 {: .right}
 
 Castle Farm is the perfect setting for your wedding, event or special
-occasion.
-
-As well as being a working farm with beautiful rolling countryside and a
-peaceful, tranquil setting as your backdrop. Castle Farm offers you an
-ideal location to guarantee a perfect day (not including the weather!)
-that will be individual, that little bit different, and be remembered
-for years to come.
+occasion. As well as being a working farm with beautiful rolling countryside and a
+peaceful, tranquil setting as your backdrop. 
+Castle Farm offers you an ideal location to guarantee a perfect day that will be individual, that little bit different, and be remembered for years to come.
 
 ## Where it all began...
 
