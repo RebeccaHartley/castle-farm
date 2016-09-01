@@ -33,7 +33,7 @@ the A1, and the Brown family moved to Castle Farm on 6th April 1957.
 Having moved to the farm at the age of 7 as part of the third
 generation, and learning the trade from a very young age, Richard came
 to the helm in 1971 to run the farm with his Father, Jack. He is now in
-sole charge, and over the years as found what works for him in the world of agriculture.
+sole charge, and over the years has found what works for him in the world of agriculture.
 
 Richard met his wife Elizabeth at the local Young Farmers group whilst
 he was President and she was Secretary. They went on to have a brood of
