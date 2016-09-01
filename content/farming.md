@@ -38,8 +38,8 @@ sole charge.
 Richard met his wife Elizabeth at the local Young Farmers group whilst
 he was President and she was Secretary. They went on to have a brood of
 4 daughters (what every farmer dreams of!), and the girls have been
-supported in following their own paths. In recent years, his second
-daughter has assisted on the farm. Rebecca joined Richard in 2013 as the
+supported in following their own paths. In recent years, his second and youngest
+daughters have assisted on the farm. Rebecca joined Richard in 2013 as the
 result of him damaging his Achilles tendon just before the lambing
 season, finding that she quite enjoyed working on the farm.
 
@@ -65,5 +65,4 @@ tup, have their pick of around 140 Suffolk cross Border Leicester ewes!
 
 ![](http://rebeccahartley.github.io/castle-farm/images/media/image5.jpeg)
 
-Also to be found on the farm is Floss the Border Collie sheepdog, Heidi
-and Delilah the Pygmy goats and a multitude of cats.
+Also to be found on the farm is Floss the Border Collie sheepdog, Delilah the Pygmy goat, a multitude of cats and many wild birds.
