@@ -39,9 +39,8 @@ Richard met his wife Elizabeth at the local Young Farmers group whilst
 he was President and she was Secretary. They went on to have a brood of
 4 daughters (what every farmer dreams of!), and the girls have been
 supported in following their own paths. In recent years, his second and youngest
-daughters have assisted on the farm. Rebecca joined Richard in 2013 as the
-result of him damaging his Achilles tendon just before the lambing
-season, finding that she quite enjoyed working on the farm.
+daughters have assisted on the farm, with sheep shearing being a particular favourite. 
+Rebecca joined Richard in 2013 as the result of him damaging his Achilles tendon just before the lambing season, finding that she quite enjoyed working on the farm.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/media/image3.jpeg)
 _Richard and Rebecca_
