@@ -12,8 +12,8 @@ published: true
 {: .right}
 
 Castle Farm is the perfect setting for your wedding, event or special
-occasion. With a working farm for a backdrop, beautiful rolling countryside and a
-peaceful, tranquil setting. 
+occasion. A working farm, beautiful rolling countryside and a
+peaceful, tranquil backdrop for your big day. 
 Castle Farm offers you an ideal location to guarantee a perfect day that will be individual, that little bit different, and be remembered for years to come.
 
 ## Where it all began...
@@ -23,13 +23,13 @@ Castle Farm offers you an ideal location to guarantee a perfect day that will be
 
 Castle Farm hosted two Brown daughter Weddings
 in the space of 6 months. The first held in the depths of winter in a
-PapaKata marquee. The second a mid-summer wedding held in the stone
+PapaKata marquee, the second a mid-summer wedding held in the stone
 barn. The family had such an enjoyable time at both occasions and were delighted with the
-response from the guests that attended. Rebecca has a background of co-ordinating events and many of the family have experience in hospitality, and so it made sense to put this to good use, and welcome others to the farm.
+response from the guests that attended. Rebecca has a background of co-ordinating events and many of the family have experience in hospitality, and so it made sense to put these skills to good use, and welcome others to the farm to share the surroundings.
 
 ## The Facilities
 
-The space comprises of the beautiful stone barn, perfect for a sit down
+The facilities include the beautiful stone barn, perfect for a sit down
 banquet or buffet. This area also allows for evening entertainment and
 suitable room to party.
 
@@ -54,12 +54,12 @@ changing backdrop ideal for photographs.
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/interior-bulbs.jpeg)
 {: .left .width25}
 
-Castle Farm provides a space that is a rustic blank canvas. It offers a
-venue that will be unique with perfect scope for a personalising and
+Castle Farm provides a space that is a rustic blank canvas, showing signs of it's former agricultural use, adding character and charm. It offers a
+venue that will be unique, with perfect scope for personalising and
 tailoring to suit all tastes.
 
-Castle Farm understands that everyone is individual and event
-requirements are very personal, and will work with you to create the
+We understand that everyone is individual and event
+requirements are very personal, and we will work with you to create the
 perfect day.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/combine-couple.jpeg)
