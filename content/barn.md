@@ -47,14 +47,14 @@ required.
 A small kitchenette area for caterers, with the provision of additional
 space for catering requirements is also provided.
 
-The farm also has plenty of parking and outdoor space with a seasonal
+The farm has plenty of parking and outdoor space with a seasonal
 changing backdrop ideal for photographs.
 
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/interior-bulbs.jpeg)
 {: .left .width25}
 
-Castle Farm provides a space that is a rustic blank canvas, showing signs of it's former agricultural use, adding character and charm. It offers a
+Castle Farm provides a space that is a rustic blank canvas, showing signs of it's former agricultural use which add to the character and charm. It offers a
 venue that will be unique, with perfect scope for personalising and
 tailoring to suit all tastes.
 
