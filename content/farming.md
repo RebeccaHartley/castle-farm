@@ -18,8 +18,8 @@ Yorkshire countryside.
 
 It was known in 1956 that Kellingley Farm, where the Brown family lived,
 would be one of many involved in a compulsory sale to form Kellingley
-Colliery. As a result, three generations would pile into the Austin and
-drive around Yorkshire every Saturday in search of a farm for their
+Colliery. As a result, three generations would pile into the Austin every Saturday and
+drive around Yorkshire in search of a farm for their
 relocation.
 
 After an extensive search, they found the perfect location 35 minutes up
@@ -40,7 +40,7 @@ he was President and she was Secretary. They went on to have a brood of
 4 daughters (what every farmer dreams of!), and the girls have been
 supported in following their own paths. In recent years, his second and youngest
 daughters have assisted on the farm, with sheep shearing being a particular favourite. 
-Rebecca joined Richard in 2013 as the result of him damaging his Achilles tendon just before the lambing season, finding that she quite enjoyed working on the farm.
+As the result of Richard damaging his Achilles tendon just before the lambing season in 2013, Rebecca joined him on a more permanent basis after finding that she quite enjoyed working on the farm.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/media/image3.jpeg)
 _Richard and Rebecca_
