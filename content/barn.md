@@ -14,7 +14,7 @@ published: true
 Castle Farm is the perfect setting for your wedding, event or special
 occasion. A working farm, beautiful rolling countryside and a
 peaceful, tranquil backdrop for your big day. 
-Castle Farm offers you an ideal location to guarantee a perfect day that will be individual, that little bit different, and be remembered for years to come.
+The farm offers you an ideal location to guarantee a perfect day that will be individual, personal, and be remembered for years to come.
 
 ## Where it all began...
 
@@ -35,7 +35,7 @@ suitable room to party.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/interior.jpeg)
 
-The brick Roundhouse is the ideal place for reception drinks and to home the bar. Later on the Roundhouse can also be used as a break out or quiet area.
+The brick Roundhouse is the ideal place for reception drinks and to home the bar. Later on, the Roundhouse is a perfect break out space and quiet area.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/baar.jpeg)
 {: .right .width25}
@@ -44,17 +44,17 @@ Luxury toilet facilities (with disabled access) are located onsite with
 an original farmhouse stone sink, meaning loo hiring is not
 required.
 
-A small kitchenette area for caterers, with the provision of additional
+A small kitchenette area for caterers, with additional
 space for catering requirements is also provided.
 
-The farm has plenty of parking and outdoor space with a seasonal
+The farm has plenty of parking and outdoor space, with a seasonal
 changing backdrop ideal for photographs.
 
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/interior-bulbs.jpeg)
 {: .left .width25}
 
-Castle Farm provides a space that is a rustic blank canvas, showing signs of it's former agricultural use which add to the character and charm. It offers a
+Castle Farm provides a space that is a rustic blank canvas, showing signs of former agricultural use which add to the character and charm. It offers a
 venue that will be unique, with perfect scope for personalising and
 tailoring to suit all tastes.
 
