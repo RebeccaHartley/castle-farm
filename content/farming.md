@@ -37,7 +37,7 @@ sole charge, and over the years has found what works for him in the world of agr
 
 Richard met his wife Elizabeth at the local Young Farmers group whilst
 he was President and she was Secretary. They went on to have a brood of
-4 daughters (what every farmer dreams of!), and the girls have been
+4 daughters (what every farmer dreams of!) and the girls have been
 supported in following their own paths. In recent years, his second and youngest
 daughters have assisted on the farm, with sheep shearing being a particular favourite. 
 As the result of Richard damaging his Achilles tendon just before the lambing season in 2013, Rebecca joined him on a more permanent basis after finding that she quite enjoyed working on the farm.
