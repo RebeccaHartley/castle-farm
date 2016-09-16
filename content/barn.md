@@ -14,7 +14,7 @@ published: true
 Castle Farm is the perfect setting for your wedding, event or special
 occasion. A working farm, beautiful rolling countryside and a
 peaceful, tranquil backdrop for your big day. 
-The farm offers you an ideal location to guarantee a perfect day that will be individual, personal, and be remembered for years to come.
+The farm offers you an ideal location to guarantee a perfect day that will be individual, a break from the norm, and be remembered for years to come.
 
 ## Where it all began...
 
@@ -25,7 +25,7 @@ Castle Farm hosted two Brown daughter Weddings
 in the space of 6 months. The first held in the depths of winter in a
 PapaKata marquee, the second a mid-summer wedding held in the stone
 barn. The family had such an enjoyable time at both occasions and were delighted with the
-response from the guests that attended. Rebecca has a background of co-ordinating events and many of the family have experience in hospitality, and so it made sense to put these skills to good use, and welcome others to the farm to share the surroundings.
+response from the guests that attended. Rebecca has a background of co-ordinating events and many of the family have experience in hospitality, and so it made sense to put these skills to good use and to welcome others to the farm to share the surroundings.
 
 ## The Facilities
 
