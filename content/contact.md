@@ -10,9 +10,9 @@ published: true
 
 - <i class="fa fa-envelope"></i> [castlefarmbarn@outlook.com](mailto:castlefarmbarn@outlook.com)
 
-- <i class="fa fa-twitter fa-lg"></i> Twitter - @CastleFarmBarn
-- <i class="fa fa-facebook fa-lg"></i> Facebook - CastleFarmNorthYorkshire
-- <i class="fa fa-instagram fa-lg"></i> Instagram - castle_farm
+- <i class="fa fa-twitter fa-lg"></i> <a href="https://twitter.com/CastleFarmBarn" target="_blank">Twitter - @CastleFarmBarn</a>
+- <i class="fa fa-facebook fa-lg"></i> <a href="https://www.facebook.com/CastleFarmNorthYorkshire" target="_blank">Facebook - CastleFarmNorthYorkshire</a>
+- <i class="fa fa-instagram fa-lg"></i> <a href="https://www.instagram.com/castle_farm/" target="_blank">Instagram - castle_farm</a>
 
 <hr style="border:0;height: 2rem;">
 
