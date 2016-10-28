@@ -54,7 +54,6 @@ wild flowers. As part of the harvest, hay and straw are also produced
 and enjoyed by many a local animal.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/tractor-and-corn.jpeg)
-_http://www.soul/images.co.uk/_
 
 ## The Herd
 
