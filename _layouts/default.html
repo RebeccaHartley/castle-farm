@@ -8,7 +8,7 @@
     {% include header.html %}
 
     <div class="page-content">
-      <div class="wrapper">
+      <div class="wrapper"> 
         {{ content }}
       </div>
     </div>
@@ -19,9 +19,8 @@
 
   
 
-  <script src="bower_components/jquery/dist/jquery.min.js"></script>
-  <script src="bower_components/flickity/dist/flickity.pkgd.min.js"></script>
-  <script src="bower_components/flickity/dist/flickity.pkgd.min.js"></script>
+  <script src="{{ '/bower_components/jquery/dist/jquery.min.js' | prepend: site.baseurl }}"></script>
+  <script src="{{ '/bower_components/flickity/dist/flickity.pkgd.min.js' | prepend: site.baseurl}}"></script>
 
   <script type="text/javascript">
     
