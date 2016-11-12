@@ -48,8 +48,8 @@ _Richard and Rebecca_
 ## Current Crop
 
 The land has grown various arable crops over the years and is currently
-harvesting malting barley, both Marris Otter a winter barley crop and
-Golden Promise a spring barley crop, winter wheat, linseed for oil and
+harvesting malting barley, Marris Otter and Venture, both winter barley crop varieties and
+Golden Promise a spring barley crop, winter wheat and
 wild flowers. As part of the harvest, hay and straw are also produced
 and enjoyed by many a local animal.
 
