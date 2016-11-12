@@ -18,8 +18,8 @@ menuorder: 1
     <div class="carousel-cell"><img src="images/640x480/venue_evening.JPG" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/venue_with_bunting_sepia.JPG" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/venue_with_bunting.JPG" alt="" /></div>
-    <div class="carousel-cell"><img src="images/640x480/tom_and_bex_on_tractor.jpg" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/bunting-and-tables.jpg" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/bar_baa.JPG" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/workshop_flowers.jpg" alt="" /></div>
+    <div class="carousel-cell"><img src="images/640x480/tom_and_bex_on_tractor.jpg" alt="" /></div>
 </div>: 
