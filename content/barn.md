@@ -55,7 +55,7 @@ changing backdrop ideal for photographs.
 {: .left .width25}
 
 Castle Farm provides a space that is a rustic blank canvas, showing signs of former agricultural use which add to the character and charm. It offers a
-venue that will be unique, with perfect scope for personalising and
+venue that will is unique, with perfect scope for personalising and
 tailoring to suit all tastes.
 
 We understand that everyone is individual and event
