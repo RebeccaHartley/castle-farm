@@ -14,7 +14,7 @@ published: true
 Castle Farm is the perfect setting for your wedding, event or special
 occasion. A working farm, beautiful rolling countryside and a
 peaceful, tranquil backdrop for your big day. 
-The farm offers you an ideal location to guarantee a perfect day that will be individual, a break from the norm, and be remembered for years to come.
+Playing host to only a handful of Weddings each year, the farm offers you an ideal exclusive location to guarantee a perfect day that will be individual, a break from the norm, and be remembered for years to come.
 
 ## Where it all began...
 
