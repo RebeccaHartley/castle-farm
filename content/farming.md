@@ -36,7 +36,7 @@ to the helm in 1971 to run the farm with his Father, Jack. He is now in
 sole charge, and over the years has found what works for him in the world of agriculture.
 
 Richard met his wife Elizabeth at the local Young Farmers group whilst
-he was President and she was Secretary. They went on to have a brood of
+he was Chairman and she was Secretary. They went on to have a brood of
 4 daughters (what every farmer dreams of!) and the girls have been
 supported in following their own paths. In recent years, his second and youngest
 daughters have assisted on the farm, with sheep shearing being a particular favourite. 
@@ -55,7 +55,7 @@ and enjoyed by many a local animal.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/tractor-and-corn.jpeg)
 
-## The Herd
+## The Flock
 
 The farm is also home to a herd of sheep, with lambing taking place in
 the spring. The two lucky boys, Thor a Texel tup and Harry a Charollais
