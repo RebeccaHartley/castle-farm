@@ -57,7 +57,7 @@ and enjoyed by many a local animal.
 
 ## The Flock
 
-The farm is also home to a herd of sheep, with lambing taking place in
+The farm is also home to a flock of sheep, with lambing taking place in
 the spring. The two lucky boys, Thor a Texel tup and Harry a Charollais
 tup, have their pick of around 140 Suffolk cross Border Leicester ewes!
 
