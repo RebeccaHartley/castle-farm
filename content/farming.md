@@ -34,7 +34,8 @@ sole charge, and over the years has ploughed his own furrow in the world of agri
 Richard met his wife Elizabeth at the local Young Farmers group whilst
 he was Chairman and she was Secretary. They went on to have a brood of
 4 daughters (what every farmer dreams of!) and the girls have been
-supported in following their own paths. In recent years, his second and youngest
+supported in following their own paths. 
+In recent years, his second and youngest
 daughters have assisted on the farm, with sheep shearing being a particular favourite. 
 As the result of Richard damaging his Achilles tendon just before the lambing season in 2013, Rebecca joined him on a more permanent basis after finding that she quite enjoyed working on the farm.
 
@@ -44,7 +45,7 @@ _Richard and Rebecca_
 ## Current Crop
 
 The land has grown various arable crops over the years and is currently
-harvesting malting barley, (Marris Otter and Venture), both winter barley crop varieties, a spring barley crop (Golden Promise), winter wheat and wild flowers. As part of the harvest, hay and straw are also produced and enjoyed by many a local animal.
+harvesting malting barley (Marris Otter and Venture), both winter barley crop varieties, a spring barley crop (Golden Promise), winter wheat and wild flowers. As part of the harvest, hay and straw are also produced and enjoyed by many a local animal.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/tractor-and-corn.jpeg)
 
