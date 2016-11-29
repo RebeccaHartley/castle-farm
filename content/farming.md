@@ -45,7 +45,7 @@ _Richard and Rebecca_
 ## Current Crop
 
 The land has grown various arable crops over the years and is currently
-harvesting malting barley (Marris Otter and Venture), both winter barley crop varieties, a spring barley crop (Golden Promise), winter wheat and wild flowers. As part of the harvest, hay and straw are also produced and enjoyed by many a local animal.
+harvesting malting barley, Marris Otter and Venture, both winter barley crop varieties, Golden Promise, a spring barley crop, winter wheat and wild flowers. As part of the harvest, hay and straw are also produced and enjoyed by many a local animal.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/tractor-and-corn.jpeg)
 
