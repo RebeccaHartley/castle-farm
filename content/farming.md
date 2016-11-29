@@ -16,7 +16,7 @@ Yorkshire countryside.
 
 ## Sowing The Seed
 
-Originally located at Kellingley Farm. In 1956 the compulsory sale of farms to form Kellingley
+Originally located at Kellingley Farm, in 1956 the compulsory sale of farms to form Kellingley
 Colliery meant pastures new were required for the Brown family. So the search began, and every Saturday three generations would pile into the family Austin to drive around Yorkshire in search of a farm for their relocation.
 
 After an extensive search, they found the perfect location 35 minutes up
