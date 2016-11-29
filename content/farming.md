@@ -28,7 +28,7 @@ the A1, and the Brown family moved to Castle Farm on 6th April 1957.
 ## Grass Roots
 
 Having moved to the farm at the age of 7 as part of the third
-generation, Richard came to the helm in 1971. Having learnt the family trade from a very young age, he first began to run the farm with his Father, Jack. He is now in
+generation, and having learnt the family trade from a very young age, Richard came to the helm in 1971 running the farm with his Father, Jack. He is now in
 sole charge, and over the years has ploughed his own furrow in the world of agriculture.
 
 Richard met his wife Elizabeth at the local Young Farmers group whilst
