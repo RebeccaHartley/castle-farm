@@ -56,4 +56,4 @@ tup), have had their pick of the ewes!
 
 ![](http://rebeccahartley.github.io/castle-farm/images/media/image5.jpeg)
 
-Also to be found on the farm is Floss the Border Collie sheepdog, Delilah the Pygmy goat, a multitude of cats (of varying degrees of tameness) and a wild bounty of wild birds.
+Also to be found on the farm is Floss the Border Collie sheepdog, Delilah the Pygmy goat, a multitude of cats (of varying degrees of tameness) and a bounty of wild birds.
