@@ -26,9 +26,7 @@ response from the guests that attended. Rebecca has a background of co-ordinatin
 
 ## The Facilities
 
-The facilities include the beautiful stone barn, perfect for a sit down
-banquet or buffet. This area also allows for evening entertainment and
-suitable room to party.
+The facilities include the beautiful stone barn. This area can be used to host a sit down banquet or buffet. The stone barn also allows for evening entertainment, ample room to party, and of course dancing.
 
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/interior.jpeg)
 
@@ -37,9 +35,8 @@ The brick Roundhouse is the ideal place for reception drinks and to home the bar
 ![](http://rebeccahartley.github.io/castle-farm/images/barn/baar.jpeg)
 {: .right .width25}
 
-Luxury toilet facilities (with disabled access) are located onsite with
-an original farmhouse stone sink, meaning loo hiring is not
-required.
+Luxury toilet facilities (with disabled access) are located on-site with
+an original farmhouse stone sink. Therefore, no extra cost for loo hire.
 
 A small kitchenette area for caterers, with additional
 space for catering requirements is also provided.
