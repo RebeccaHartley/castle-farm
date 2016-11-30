@@ -17,7 +17,7 @@ published: true
 <hr style="border:0;height: 2rem;">
 
 Castle Farm
-Hay-a-Park
+Hay-a-Park Lane
 Knaresborough
 North Yorkshire
 HG5 0RX
