@@ -51,7 +51,7 @@ harvesting malting barley, Marris Otter and Venture, both winter barley crop var
 
 ## The Flock
 
-The farm is also home to a flock of around 140 Suffolk cross Border Leicester sheep. Lambing commences in the spring after the two lucky boys, Thor (a Texel tup) and Harry (a Charollais
+The farm is also home to a flock of 140 Suffolk cross Border Leicester sheep. Lambing commences in the spring after the two lucky boys, Thor (a Texel tup) and Harry (a Charollais
 tup), have had their pick of the ewes!
 
 ![](http://rebeccahartley.github.io/castle-farm/images/media/image5.jpeg)
