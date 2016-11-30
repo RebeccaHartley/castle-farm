@@ -341,14 +341,14 @@ p{
     // border-radius: 5px;
     counter-increment: carousel-cell;
   }
-  .carousel-cell:after {
-    position: absolute;
-    top:50%;
-    left:50%;
-    font-size: 20px;
-    color:white;
-    content: counter(carousel-cell);
-  }
+  // .carousel-cell:after {
+  //   position: absolute;
+  //   top:50%;
+  //   left:50%;
+  //   font-size: 20px;
+  //   color:white;
+  //   content: counter(carousel-cell);
+  // }
 
   .carousel-cell img{
     width: 640px;

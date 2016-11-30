@@ -22,4 +22,4 @@ menuorder: 1
     <div class="carousel-cell"><img src="images/640x480/bar_baa.JPG" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/workshop_flowers.jpg" alt="" /></div>
     <div class="carousel-cell"><img src="images/640x480/tom_and_bex_on_tractor.jpg" alt="" /></div>
-</div>: 
+</div>
