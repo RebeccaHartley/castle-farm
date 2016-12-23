@@ -10,13 +10,13 @@ title: Your awesome title
 email: your-email@domain.com
 markdown: kramdown
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   Castle Farm is a family run arable farm with a flock of sheep 
+   outside the market town of Knaresborough. The farm also hosts 
+   a small number of weddings.
 
-baseurl: "/castle-farm" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "http://loc.castle-farm.net:4000" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -25,6 +25,6 @@ colours:
 
 prose:
   rooturl: 'content'
-  siteurl: "http://rebeccahartley.github.io/castle-farm"
+  siteurl: "http://castle-farm.net"
   media: "images"
   ignore: [INFO.md]
