@@ -1,7 +1,8 @@
 <header id="header" class="cte WdB">
   <img src="{{'/images/logo/tup_logo_05.svg' | prepend: site.baseurl }}" alt="">
   <nav id="header-nav">
-    <div class="o-tbl">
+
+    <div class="o-tbl m_hideA">
       <div class="tbl">
         <div class="cll m_hideB" style="width:131px;background-position:left bottom;"></div>
 
@@ -15,7 +16,23 @@
           {% endif %}
         {% endfor %}
         <div class="cll m_hideB" style="width:131px;background-position:right bottom;"></div>
+
       </div>
     </div>
+
+
+    <!--googleoff: index-->
+    <ul class="m_showA">
+      <li>&nbsp;</li>
+      {% for page in pages %}
+        {% if page.title and page.menuorder %}
+          <li>
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <!--googleon: index-->
+
   </nav>
 </header>
